@@ -7,6 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2D6A3955264EA46400210602 /* Previewing.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D6A3954264EA46400210602 /* Previewing.swift */; };
+		2D6A3956264EA46400210602 /* Previewing.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D6A3954264EA46400210602 /* Previewing.swift */; };
+		2D6A3958264EB39900210602 /* ItemRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D6A3957264EB39900210602 /* ItemRowView.swift */; };
+		2D6A3959264EB39900210602 /* ItemRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D6A3957264EB39900210602 /* ItemRowView.swift */; };
 		2DE46131264E1391000247B5 /* Tests_iOS.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DE46130264E1391000247B5 /* Tests_iOS.swift */; };
 		2DE4613C264E1391000247B5 /* Tests_macOS.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DE4613B264E1391000247B5 /* Tests_macOS.swift */; };
 		2DE4613E264E1391000247B5 /* SwiftUI_CoreData_WithEase.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 2DE46112264E138C000247B5 /* SwiftUI_CoreData_WithEase.xcdatamodeld */; };
@@ -39,6 +43,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		2D6A3954264EA46400210602 /* Previewing.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Previewing.swift; sourceTree = "<group>"; };
+		2D6A3957264EB39900210602 /* ItemRowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemRowView.swift; sourceTree = "<group>"; };
 		2DE46113264E138C000247B5 /* Shared.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Shared.xcdatamodel; sourceTree = "<group>"; };
 		2DE46114264E138C000247B5 /* SwiftUI_CoreData_WithEaseApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUI_CoreData_WithEaseApp.swift; sourceTree = "<group>"; };
 		2DE46115264E138C000247B5 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -109,6 +115,8 @@
 				2DE46116264E138C000247B5 /* Persistence.swift */,
 				2DE46117264E1391000247B5 /* Assets.xcassets */,
 				2DE46112264E138C000247B5 /* SwiftUI_CoreData_WithEase.xcdatamodeld */,
+				2D6A3954264EA46400210602 /* Previewing.swift */,
+				2D6A3957264EB39900210602 /* ItemRowView.swift */,
 			);
 			path = Shared;
 			sourceTree = "<group>";
@@ -318,6 +326,8 @@
 			files = (
 				2DE46140264E1391000247B5 /* SwiftUI_CoreData_WithEaseApp.swift in Sources */,
 				2DE46144264E1391000247B5 /* Persistence.swift in Sources */,
+				2D6A3958264EB39900210602 /* ItemRowView.swift in Sources */,
+				2D6A3955264EA46400210602 /* Previewing.swift in Sources */,
 				2DE4613E264E1391000247B5 /* SwiftUI_CoreData_WithEase.xcdatamodeld in Sources */,
 				2DE46142264E1391000247B5 /* ContentView.swift in Sources */,
 			);
@@ -329,6 +339,8 @@
 			files = (
 				2DE46141264E1391000247B5 /* SwiftUI_CoreData_WithEaseApp.swift in Sources */,
 				2DE46145264E1391000247B5 /* Persistence.swift in Sources */,
+				2D6A3959264EB39900210602 /* ItemRowView.swift in Sources */,
+				2D6A3956264EA46400210602 /* Previewing.swift in Sources */,
 				2DE4613F264E1391000247B5 /* SwiftUI_CoreData_WithEase.xcdatamodeld in Sources */,
 				2DE46143264E1391000247B5 /* ContentView.swift in Sources */,
 			);
